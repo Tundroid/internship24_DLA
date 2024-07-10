@@ -1,0 +1,17 @@
+<preprocessor directives>
+begin with #
+
+<GLOBAL variables>
+<function prototypes>
+
+<main function>
+
+DECLARATION of a variables
+<type> <identifier>;
+
+Initialization (giving the initial value)
+1. During DECLARATION
+    <type> <identifier> = <initial_value>;
+2. After DECLARATION
+    <type> <identifier>;
+    <identifier> = <initial_value>
